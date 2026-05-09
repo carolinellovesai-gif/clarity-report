@@ -1,0 +1,9 @@
+{
+  "name": "Bottleneck Clarity Audit",
+  "description": "Unlock exponential business growth with a professional Bottleneck Clarity Audit. Identify operational inefficiencies, AI opportunities, and get a roadmap for your next level of success.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
